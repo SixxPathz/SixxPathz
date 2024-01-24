@@ -1,16 +1,16 @@
-
-[![MasterHead](https://64.media.tumblr.com/d6d0246ca0dffa230f03be2521b3210f/tumblr_obfjz6Bd9f1runoqyo2_r1_540.gifv)](https://sixxpathz.github.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://SixxPathz.github.io)
 <h1 align="center">Hi 👋, I'm Sandile Dhlamini</h1>
 <h3 align="center">A passionate Junior Developer From South Africa</h3>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/d6d0246ca0dffa230f03be2521b3210f/tumblr_obfjz6Bd9f1runoqyo2_r1_540.gifv">
-
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/0067928aa5157d694f22a1f350aa81fa00c44501d76e5780becee73927fffa52/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f62332f32362f35312f62333236353137636438636134346239333961316265653431613766313033632e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sixxpathz&label=Profile%20views&color=0e75b6&style=flat" alt="sixxpathz" /> </p>
 
 <p align="left"> <a href="https://twitter.com/sixx_pathz" target="blank"><img src="https://img.shields.io/twitter/follow/sixx_pathz?logo=twitter&style=for-the-badge" alt="sixx_pathz" /></a> </p>
 
-- 🌱 I’m currently learning **Java Development at Code Collefe**
+- 🌱 I’m currently learning **Java Development at Code College**
 
 - 👨‍💻 All of my projects are available at [https://sandile.netlify.app/](https://sandile.netlify.app/)
+
+- 💬 Ask me about **C++,JavaScript, HTML and CSS**
 
 - 📫 How to reach me **dsandile58@gmail.com**
 
@@ -30,6 +30,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/sixxpathz"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sixxpathz" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sixxpathz&show_icons=true&locale=en&layout=compact" alt="sixxpathz" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sixxpathz&show_icons=true&locale=en" alt="sixxpathz" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sixxpathz&show_icons=true&locale=en&layout=compact" alt="sixxpathz" /></p>
