@@ -8,17 +8,14 @@
 
 <p align="left"> <a href="https://twitter.com/sixx_pathz" target="blank"><img src="https://img.shields.io/twitter/follow/sixx_pathz?logo=twitter&style=for-the-badge" alt="sixx_pathz" /></a> </p>
 
-- 🌱 I’m currently learning **Java Development at Code College**
+- 🌱 I’m currently learning **Java Development at Meccer Inter-ed**
 
-- 👨‍💻 All of my projects are available at [https://sandile.netlify.app/](https://sandile.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://sandile.software/](https://sandile.software/)
 
-- 💬 Ask me about **C++,JavaScript, HTML and CSS**
+- 💬 Ask me about **Java,C++,JavaScript, HTML and CSS**
 
 - 📫 How to reach me **dsandile58@gmail.com**
 
-- 📄 Know about my experiences [https://sandile.netlify.app/assets/files/Sandile%20CV%20Jan24.pdf](https://sandile.netlify.app/assets/files/Sandile%20CV%20Jan24.pdf)
-
-- ⚡ Fun fact **I enjoy playing PUBG Mobile and GTA Online In My Spare Time**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
