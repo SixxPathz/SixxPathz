@@ -1,33 +1,69 @@
+<h1 align="center">SANDILE.DHLAMINI // PLAYER ONE</h1>
+<h3 align="center">Software Developer | Junior Technical Consultant (SAP)</h3>
 
-
-
-<h1 align="center">Hi 👋, I'm Sandile Dhlamini</h1>
-<h3 align="center">A passionate Junior Developer From South Africa</h3>
-<img align="center" alt="Coding" width="400" src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sixxpathz&label=Profile%20views&color=0e75b6&style=flat" alt="sixxpathz" /> </p>
-
-<p align="left"> <a href="https://twitter.com/sixx_pathz" target="blank"><img src="https://img.shields.io/twitter/follow/sixx_pathz?logo=twitter&style=for-the-badge" alt="sixx_pathz" /></a> </p>
-
-- 🌱 I’m currently learning **Java Development at Meccer Inter-ed**
-
-- 👨‍💻 All of my projects are available at [https://sandile.software/](https://sandile.software/)
-
-- 💬 Ask me about **Java,C++,JavaScript, HTML and CSS**
-
-- 📫 How to reach me **dsandile58@gmail.com**
-
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/sixx_pathz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sixx_pathz" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/sandile-dhlamini-b5477520b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandile-dhlamini-b5477520b" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/10498744/210012254-234538ff-d198-48aa-8964-37e6fd45d227.gif" width="430" alt="Retro Super Mario coding GIF" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://img.shields.io/badge/INSERT_COIN-READY-00ff9c?style=for-the-badge&labelColor=111827" alt="insert coin" />
+  <img src="https://img.shields.io/badge/PLAYER-SixXPathz-22d3ee?style=for-the-badge&labelColor=111827" alt="player" />
+  <img src="https://img.shields.io/badge/LOCATION-Randburg,_South_Africa-f59e0b?style=for-the-badge&labelColor=111827" alt="location" />
+</p>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sixxpathz&label=PROFILE%20VIEWS&color=0e75b6&style=flat-square" alt="sixxpathz" />
+</p>
 
+```text
+====================[ BOOT LOG ]====================
+STATUS: ONLINE
+MODE: ENTERPRISE + PRODUCT BUILDING
+MISSION: SHIP RELIABLE SOFTWARE
+=====================================================
+```
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sixxpathz&show_icons=true&locale=en&layout=compact" alt="sixxpathz" /></p><br><br><br><br><br><br><br>
+## [ ARCADE PROFILE ]
 
+- Current role: Junior Technical Consultant at EPI-USE Africa (Jan 2026 to Present)
+- Previous: Java Developer Trainee at Mecer Inter-Ed (May 2025 to Oct 2025)
+- Focus areas: SAP ABAP, Fiori, CPI, HANA, API integration, debugging, testing
+- Contact: `dsandile58@gmail.com`
+- Portfolio: [sandile.software](https://sandile.software/)
 
+## [ POWER-UPS ]
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,py,js,react,html,css,mysql,mongodb,docker,git,linux,jira,idea,vscode&perline=7" alt="Tech stack icons" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white" alt="SAP" />
+  <img src="https://img.shields.io/badge/ABAP-111827?style=flat-square&logoColor=white" alt="ABAP" />
+  <img src="https://img.shields.io/badge/FIORI-1f2937?style=flat-square&logoColor=white" alt="Fiori" />
+  <img src="https://img.shields.io/badge/CPI-334155?style=flat-square&logoColor=white" alt="CPI" />
+  <img src="https://img.shields.io/badge/HANA-475569?style=flat-square&logoColor=white" alt="HANA" />
+</p>
+
+## [ MULTIPLAYER LOBBY ]
+
+<p align="center">
+  <a href="https://linkedin.com/in/sandile-dhlamini-b5477520b" target="_blank"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a>
+  <a href="https://twitter.com/sixx_pathz" target="_blank"><img src="https://img.shields.io/badge/X-FOLLOW-111827?style=for-the-badge&logo=x&logoColor=white" alt="twitter" /></a>
+  <a href="mailto:dsandile58@gmail.com"><img src="https://img.shields.io/badge/EMAIL-MESSAGE-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="email" /></a>
+</p>
+
+## [ SCOREBOARD ]
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sixxpathz&theme=tokyonight" alt="Profile details" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sixxpathz&theme=tokyonight" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sixxpathz&theme=tokyonight" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sixxpathz&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+</p>
