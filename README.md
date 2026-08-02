@@ -47,12 +47,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sixxpathz&theme=github_dark" alt="Profile details" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sixxpathz&theme=github_dark" alt="GitHub stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sixxpathz&theme=github_dark" alt="Top languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=sixxpathz&show_icons=true&theme=dark" alt="GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sixxpathz&layout=compact&theme=dark" alt="Top languages" />
 </p>
 
 <p align="center">
